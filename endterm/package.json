@@ -1,0 +1,11 @@
+{
+  "name": "endterm",
+  "version": "1.0.0",
+  "description": "This is an easy endterm project ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dariga Tasbolatova TS-2003",
+  "license": "ISC"
+}
